@@ -3,7 +3,7 @@
 ## Teamleden (en taken)
 - geef hier de namen van de teamleden
 
-## eindproduct
-- type hier een link naar de live-view van het eindproduct op ma-cloud
-
 ## Live Example
+`
+https://38739.hosts2.ma-cloud.nl/Skill/Merge/
+`
